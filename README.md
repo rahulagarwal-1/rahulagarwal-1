@@ -17,7 +17,7 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 `Azure ADF` `Azure Synapse` `Data Lake` `Power BI`
 
 **Platforms & tools**  
-`Databricks` `Airflow` `Docker` `GitHub Actions` `CI/CD`
+`Databricks` `Docker` `GitHub Actions` `CI/CD`
 
 ---
 
