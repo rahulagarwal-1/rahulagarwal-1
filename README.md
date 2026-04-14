@@ -11,7 +11,7 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 `PySpark` `SQL` `Python` `Medallion architecture`
 
 **AWS**  
-`AWS Glue` `AWS Lambda` `S3` `Step Functions` `SQS / EventBridge`
+`AWS Glue` `AWS Lambda` `S3` `Step Functions` `SQS` `EventBridge`
 
 **Azure**  
 `Azure ADF` `Azure Synapse` `Data Lake` `Power BI`
