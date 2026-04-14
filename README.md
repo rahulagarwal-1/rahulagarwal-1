@@ -28,9 +28,9 @@ I design and optimise cloud-native ETL/ELT pipelines that move and transform dat
 
 ## Featured projects
 
-**[Weather ETL Pipeline — Airflow + Docker + S3](https://github.com/rahulagarwal-1/weather__etl_airflow_docker)**  
-Scheduled Airflow DAG inside Docker ingesting real-time weather data into a date-partitioned S3 structure.  
-`Airflow` `Docker` `S3` `Python`
+**[airflow-docker-etl](https://github.com/rahulagarwal-1/airflow-docker-etl)**  
+Schedules an Airflow DAG inside Docker to fetch real-time weather data from an API and land it in date-partitioned S3. Credentials secured via Airflow Connections.  
+`Docker` `Airflow` `S3` `Python`
 
 **[Event-Driven Booking Pipeline — Lambda + SQS + EventBridge](https://github.com/rahulagarwal-1/aws-data-ingestion-pipeline)**  
 Serverless streaming pipeline with DLQ handling, CloudWatch alerting, and CI/CD via CodeBuild.  
