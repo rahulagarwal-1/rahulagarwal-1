@@ -23,7 +23,7 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 
 ## What I do
 
-I design and optimise cloud-native ETL/ELT pipelines that move and transform data at scale. At TCS I work on the Qantas Airways account, building AWS Glue PySpark jobs processing **30M+ records weekly** and maintaining serverless ingestion workflows. I also work with the Azure data stack — ADF, Data Lake (Bronze/Silver/Gold), Synapse Analytics and Power BI.
+I design and optimise cloud-native ETL/ELT pipelines that move and transform data at scale. At TCS I built AWS Glue PySpark jobs processing 30M+ records weekly and serverless ingestion workflows using Lambda, SQS, Step Functions and EventBridge. I have also explored the Azure data stack through personal projects — building end-to-end pipelines with ADF, Data Lake (Bronze/Silver/Gold), Databricks, Synapse Analytics 
 
 ---
 
