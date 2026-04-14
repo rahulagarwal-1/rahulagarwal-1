@@ -33,7 +33,7 @@ Schedules an Airflow DAG inside Docker to fetch real-time weather data from an A
 `Docker` `Airflow` `S3` `Python`
 
 **[aws-event-driven-pipeline](https://github.com/rahulagarwal-1/aws-event-driven-pipeline)**  
-An event-driven data pipeline that ingests, filters, and stores booking records using serverless AWS services. Lambda code is automatically deployed from GitHub via AWS CodeBuild. 
+An event-driven data pipeline that ingests, filters, and stores booking records using serverless AWS services. Lambda code is automatically deployed from GitHub via AWS CodeBuild.
 `Lambda` `SQS` `EventBridge` `S3` `CodeBuild` `DLQ` 
 
 **Azure Medallion Pipeline — ADF + Databricks + Synapse + Power BI** *(link coming soon)*  
