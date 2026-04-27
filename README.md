@@ -22,7 +22,9 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 ---
 
 ## What I do
+
 Data Engineer with 2.6 years at TCS building and enhancing cloud-native data pipelines on AWS and Databricks. Experienced in PySpark, serverless architectures, CI/CD, and cloud migrations. Focused on identifying workflow gaps and delivering automation-driven solutions in production environments. Also explored the Azure data stack through personal projects — building end-to-end pipelines with ADF, Data Lake (Bronze/Silver/Gold), Databricks, and Synapse Analytics.
+
 ---
 
 ## Featured projects
