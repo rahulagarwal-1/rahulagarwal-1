@@ -29,6 +29,10 @@ Data Engineer with 2.6 years at TCS building and enhancing cloud-native data pip
 
 ## Featured projects
 
+**[Azure Medallion Pipeline](https://github.com/rahulagarwal-1/Azure-DataEngineeringProject-Adventure-Works)**  
+Dynamic data ingestion and transformation pipeline on Azure — from raw CSV files to analyst-ready external tables using medallion architecture.  
+`Azure ADF` `Medallion architecture` `Data Lake` `Databricks` `Synapse` `Entra ID`
+
 **[airflow-docker-etl](https://github.com/rahulagarwal-1/airflow-docker-etl)**  
 Schedules an Airflow DAG inside Docker to fetch real-time weather data from an API and land it in date-partitioned S3. Credentials secured via Airflow Connections.  
 `Docker` `Airflow` `S3` `Python`
@@ -37,9 +41,7 @@ Schedules an Airflow DAG inside Docker to fetch real-time weather data from an A
 An event-driven data pipeline that ingests, filters, and stores booking records using serverless AWS services. Lambda code is automatically deployed from GitHub via AWS CodeBuild.  
 `Lambda` `SQS` `EventBridge` `S3` `CodeBuild` `DLQ` 
 
-**[Azure Medallion Pipeline](https://github.com/rahulagarwal-1/Azure-DataEngineeringProject-Adventure-Works)**  
-Dynamic data ingestion and transformation pipeline on Azure — from raw CSV files to analyst-ready external tables using medallion architecture.  
-`Azure ADF` `Medallion architecture` `Data Lake` `Databricks` `Synapse` `Entra ID`
+
 
 ---
 
