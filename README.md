@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Rahul Agarwal
 
-Data Engineer at Tata Consultancy Services · Delhi, India  
-Building scalable data pipelines on AWS and Azure · 2.6 years experience
+Building scalable data pipelines on AWS · 2.6 years experience
 
 ---
 
