@@ -14,7 +14,7 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 `AWS Glue` `AWS Lambda` `S3` `Step Functions` `SQS` `EventBridge`
 
 **Azure**  
-`Azure ADF` `Azure Synapse` `Data Lake` `Power BI`
+`Azure ADF` `Azure Synapse` `Data Lake`
 
 **Platforms & tools**  
 `Databricks` `Docker` `GitHub Actions` `CI/CD`
