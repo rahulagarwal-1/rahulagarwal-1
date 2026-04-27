@@ -22,8 +22,7 @@ Building scalable data pipelines on AWS and Azure · 2.6 years experience
 ---
 
 ## What I do
-
-I design and optimise cloud-native ETL/ELT pipelines that move and transform data at scale. At TCS I built AWS Glue PySpark jobs processing 30M+ records weekly, serverless pipelines using Glue, Lambda, S3 and Step Functions, and CI/CD workflows with GitHub Actions and CloudFormation. I have also explored the Azure data stack through personal projects — building end-to-end pipelines with ADF, Data Lake (Bronze/Silver/Gold), Databricks, Synapse Analytics and Power BI.
+Data Engineer with 2.6 years at TCS building and enhancing cloud-native data pipelines on AWS and Databricks. Experienced in PySpark, serverless architectures, CI/CD, and cloud migrations. Focused on identifying workflow gaps and delivering automation-driven solutions in production environments. Also explored the Azure data stack through personal projects — building end-to-end pipelines with ADF, Data Lake (Bronze/Silver/Gold), Databricks, and Synapse Analytics.
 ---
 
 ## Featured projects
