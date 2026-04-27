@@ -36,16 +36,9 @@ Schedules an Airflow DAG inside Docker to fetch real-time weather data from an A
 An event-driven data pipeline that ingests, filters, and stores booking records using serverless AWS services. Lambda code is automatically deployed from GitHub via AWS CodeBuild.
 `Lambda` `SQS` `EventBridge` `S3` `CodeBuild` `DLQ` 
 
-**Azure Medallion Pipeline — ADF + Databricks + Synapse + Power BI** *(link coming soon)*  
-Bronze/Silver/Gold Data Lake with Databricks transformation, Synapse Analytics, and Power BI reporting. Auth via Entra ID service principals.  
-`Azure ADF` `Databricks` `Synapse` `Power BI` `Entra ID`
-
----
-
-## Stats
-- 30M+ records processed weekly
-- 33% Glue job runtime improvement
-- 2.6 years professional experience
+**[Azure Medallion Pipeline](https://github.com/rahulagarwal-1/Azure-DataEngineeringProject-Adventure-Works)**  
+Dynamic data ingestion and transformation pipeline on Azure — from raw CSV files to analyst-ready external tables using medallion architecture.
+`Azure ADF` `Medallion architecture` `Data Lake` `Databricks` `Synapse` `Entra ID`
 
 ---
 
